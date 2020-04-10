@@ -1,2 +1,2 @@
 # visual_calc
-oop proj zju 2020 spr.
+oop proj zju 2020 spr-sum.
